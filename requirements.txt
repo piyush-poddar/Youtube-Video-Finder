@@ -1,0 +1,7 @@
+google-api-python-client 
+isodate
+google-generativeai 
+python-dotenv
+SpeechRecognition
+pyaudio
+streamlit
